@@ -10,7 +10,8 @@ Mediante la API "Gutendex", realizamos busqueda de libros literarios y los almac
 
 ![imagen](https://github.com/user-attachments/assets/31803178-b5f6-4d48-b168-dde8b33ac678)
 
-![imagen](https://github.com/user-attachments/assets/c8e306c2-7865-4f9d-b01c-c30395069c73)
+![imagen](https://github.com/user-attachments/assets/2e47d566-3be6-4d6e-b6e6-b20dfb922832)
+
 
 
 
