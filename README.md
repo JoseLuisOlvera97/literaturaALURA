@@ -1,6 +1,7 @@
 📚 Literatura ALURA
 
 Este proyecto es una aplicación de consola desarrollada en Java utilizando Spring Boot. Su objetivo es interactuar con la API pública Gutendex para buscar libros literarios y almacenarlos en una base de datos. Posteriormente, permite realizar diversas consultas sobre los libros y autores registrados.
+
 🚀 Tecnologías utilizadas
 
     Java 17 : Lenguaje de programación principal.
